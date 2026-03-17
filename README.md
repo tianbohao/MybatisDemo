@@ -8,6 +8,10 @@ MyBatis 入门测试项目
 - MyBatis 核心配置
 - 数据表操作代码
 - user.sql（数据库表结构 + 测试数据）
+- 
+## 技术栈
+-SpringBoot 2.x
+-Java 8+
 
 ## 使用方法
 1. 在数据库中运行 user.sql 文件，创建表和数据
